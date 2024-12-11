@@ -125,3 +125,20 @@ body {
 .social-links a:hover {
   color: #0563bb;
 }
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #555;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #0073e6;
+  font-weight:100;
+}
+
+.footer a:hover {
+  color: #005bb5;
+}
